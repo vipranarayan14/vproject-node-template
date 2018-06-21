@@ -1,6 +1,6 @@
 # vproject
 
-Template for nodejs project.
+A template for making projects with nodejs, webpack, babel, eslint and jsbeautify.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
   "name": "vproject",
   "version": "0.0.0",
-  "description": "Template for nodejs project.",
+  "description": "A template for making projects with nodejs, webpack, babel, eslint and jsbeautify.",
   "keywords": [
     "ITRANS",
     "vtranslit",
